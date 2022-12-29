@@ -1,5 +1,5 @@
 # Learning-JAVA-Script
-# From amingoscode 
+# From amigoscode 
 
 https://amigoscode.com/courses/804809/lectures
 
