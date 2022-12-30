@@ -20,4 +20,5 @@ console.log(person.dob);
 //To access the nexted object see ouput below
 console.log(person.address.city);
 console.log(person.address.postCode);
-console.log(Object.values(person))
+console.log(Object.values(person));
+console.log(JSON.stringify(person));
