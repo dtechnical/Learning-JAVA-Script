@@ -1,5 +1,5 @@
-# Learning-JAVA-Script
-# From Simplilearn inconjunction with amigoscode
+# JAVA-Script_contents
+# From Simplilearn in conjunction with amigoscode
  
 https://lms.simplilearn.com/courses/4212/JavaScript-for-Beginners/syllabus
 
